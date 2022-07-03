@@ -38,6 +38,15 @@ const Footer = () => {
             <BsTwitter />
           </span>
         </a>
+        <a 
+        href="https://instagram.com/0xram"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          <span>
+            <BsIntagram />
+          </span>
+        </a>
       </div>
       <div>{time + " | " + date}</div>
     </div>
